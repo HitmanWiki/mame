@@ -21089,7 +21089,7 @@ const PD = {
     Pg = "0x2E1F4D0CC87a195957D1dD8E663451147Db3324b",
     FD = [{
         label: "Total Supply",
-        value: "1 BILLION",
+        value: "1 QUAD",
         sub: "Fixed supply, no inflation"
     }, {
         label: "Liquidity",
