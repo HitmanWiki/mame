@@ -21202,7 +21202,7 @@ const PD = {
                     viewport: {
                         once: !0
                     },
-                    children: "Every great Japanese follows a code. HOKK's tokenomics embody the warrior spirit: transparent, immutable, and community-first."
+                    children: "Every great Japanese follows a code. Mamesuke tokenomics embody the warrior spirit: transparent, immutable, and community-first."
                 })]
             })
         })
